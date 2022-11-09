@@ -10,6 +10,7 @@ import neural_math
 # output size
 # hidden units
 # batch size
+
 # learning rate
 class neural_network:
     def __init__(self,training_set,input_size):
