@@ -28,6 +28,8 @@ class neural_network:
 
 # Loss function
 
+
+
 # Training loop
 # Forward propagation: compute the predicted y and calcualte the current loss
 # Backward propagation: After each epoch we set the gradients to zero before starting to do backpropagation
