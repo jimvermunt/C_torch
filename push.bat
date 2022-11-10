@@ -1,4 +1,4 @@
 ECHO Push
 git add -A
-git commit -m "third commit"
+git commit -m "first neuron network"
 git push
